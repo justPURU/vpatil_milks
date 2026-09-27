@@ -1,6 +1,6 @@
-# The Milkman — Website
+# TheDoodhCo — Website
 
-A modern, earthly single-page website for **The Milkman**, a Goa-based Jersey cow milk D2C brand.
+A modern, earthly single-page website for **TheDoodhCo**, a Goa-based Jersey cow milk D2C brand.
 
 Pure static HTML/CSS/JS — no build step, no dependencies. Ready to host on **GitHub Pages**.
 
@@ -25,7 +25,7 @@ Pure static HTML/CSS/JS — no build step, no dependencies. Ready to host on **G
 3. **Our Story** — brand narrative
 4. **Menu & Rates** — ₹35 / ₹65 / ₹120 / ₹300 cards + delivery note
 5. **The Farm** — 6-tile photo gallery of cows & pastures
-6. **Why The Milkman** — 4-point value grid
+6. **Why TheDoodhCo** — 4-point value grid
 7. **Bulk orders & Monthly Subscription** — 3 tiered plans:
    - Household monthly subscription (10% off + free delivery on route)
    - Café / hotel / sweet-shop wholesale (₹55–₹58/L tiered)
@@ -82,4 +82,4 @@ Bulk / subscription rates live in the **Bulk & Subscription** section — search
 
 ---
 
-Made for The Milkman. 🥛
+Made for TheDoodhCo. 🥛

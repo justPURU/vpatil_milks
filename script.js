@@ -27,7 +27,7 @@ function handleFormSubmit(e) {
   const phone   = f.phone.value.trim();
   const message = f.message.value.trim();
 
-  const text = `Hi The Milkman!%0A%0A*Name:* ${encodeURIComponent(name)}%0A*Phone:* ${encodeURIComponent(phone)}%0A%0A${encodeURIComponent(message)}`;
+  const text = `Hi TheDoodhCo!%0A%0A*Name:* ${encodeURIComponent(name)}%0A*Phone:* ${encodeURIComponent(phone)}%0A%0A${encodeURIComponent(message)}`;
   window.open(`https://wa.me/${WHATSAPP_NUMBER}?text=${text}`, '_blank');
   return false;
 }
