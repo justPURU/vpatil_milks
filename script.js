@@ -18,8 +18,7 @@ if (toggle && links) {
 }
 
 // Contact form -> WhatsApp
-// Replace 919800000000 with your real WhatsApp number (country code + number, no + or spaces)
-const WHATSAPP_NUMBER = '919800000000';
+const WHATSAPP_NUMBER = '917776950403';
 
 function handleFormSubmit(e) {
   e.preventDefault();
@@ -28,7 +27,7 @@ function handleFormSubmit(e) {
   const phone   = f.phone.value.trim();
   const message = f.message.value.trim();
 
-  const text = `Hi VPATIL Milks!%0A%0A*Name:* ${encodeURIComponent(name)}%0A*Phone:* ${encodeURIComponent(phone)}%0A%0A${encodeURIComponent(message)}`;
+  const text = `Hi The Milkman!%0A%0A*Name:* ${encodeURIComponent(name)}%0A*Phone:* ${encodeURIComponent(phone)}%0A%0A${encodeURIComponent(message)}`;
   window.open(`https://wa.me/${WHATSAPP_NUMBER}?text=${text}`, '_blank');
   return false;
 }
